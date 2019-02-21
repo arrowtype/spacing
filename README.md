@@ -4,9 +4,9 @@ Some useful strings and tools to use in spacing and kerning type.
 
 Pull Requests of further resources are welcome!
 
-## Paul Barnes said "There should be the international standard of spacing tests," and recommended this:
+## Paul Barnes said "There should be the international standard of spacing tests," and recommended (something close to) this:
 
-(Text wasn't directly given, so this is what I remember).
+His suggestion was actually even more brief (`nanoao nbnobo ncnoco` etc), but I've added extra control characters to help my eye judge spacing. Try different variations to see what works for you and for each project!
 
 ```
 nnonnoonoo nnannooaoo nnbnnooboo nncnnoocoo nndnnoodoo nnennooeoo nnfnnoofoo nngnnoogoo nnhnnoohoo nninnooioo nnjnnoojoo nnknnookoo nnlnnooloo nnmnnoomoo nnpnnoopoo nnqnnooqoo nnrnnooroo nnsnnoosoo nntnnootoo nnunnoouoo nnvnnoovoo nnwnnoowoo nnxnnooxoo nnynnooyoo nnznnoozoo
