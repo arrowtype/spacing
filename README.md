@@ -2,7 +2,7 @@
 
 Some useful strings and tools to use in spacing and kerning type.
 
-Pull Requests of further resources are welcome!
+Have a resource or spacing method you think is useful, but isn't here? Please suggest it in an Issue or a Pull Request!
 
 ## Paul Barnes said "There should be the international standard of spacing tests," and recommended (something close to) this:
 
@@ -27,6 +27,12 @@ As you design, use Word-o-Mat (available for both RoboFont and GlyphsApp)
 Public-domain books across many languages: https://www.gutenberg.org/
 
 EU documents are translated into all European languages. Find them at https://eur-lex.europa.eu. Try the feature that sets different languages side-by-side! Random example: ["Agreement between the European Union and the Kingdom of Norway on reciprocal access to fishing in the Skagerrak for vessels flying the flag of Denmark, Norway and Sweden"](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1549497498444&uri=CELEX:22014A0730(01))
+
+## Statistics
+
+Amazing analysis of letter frequency in English: http://norvig.com/mayzner.html
+- Caveat: this ignores capitalization, though that (probably?) doesn't have a huge impact on the lessons you can take from this.
+- Is it useful? Who knows! For certain considerations, I think so.
 
 ## Other tools
 
