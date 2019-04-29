@@ -105,3 +105,7 @@ $00 $10 $20 $30 $40 $50 $60 $70 $80 $90
 18% 8‰ 8-8.8,8…8°
 19% 9‰ 9-9.9,9…9°
 ```
+
+## Tests for monospace fonts
+
+Collection of code examples in different languages, along with frequently occurring patterns: https://github.com/source-foundry/code-corpora
