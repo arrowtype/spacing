@@ -20,6 +20,10 @@ The best part is that it's a simple, brief, memorable set of tests.
 
 It is useful to adapt as needed, e.g. sometimes I use `nnnannnoooaooo` if it seems easier, I set different characters between numerals, etc.
 
+## Latin proofing texts
+
+Hoefler & Co released useful texts they use proofing Latin fontsm, plus a helpful write-up of the logic behind it: https://www.typography.com/blog/text-for-proofing-fonts
+
 ## Multi-lingual sample text sources:
 
 As you design, use Word-o-Mat (available for both RoboFont and GlyphsApp)
@@ -33,6 +37,11 @@ EU documents are translated into all European languages. Find them at https://eu
 Amazing analysis of letter frequency in English: http://norvig.com/mayzner.html
 - Caveat: this ignores capitalization, though that (probably?) doesn't have a huge impact on the lessons you can take from this.
 - Is it useful? Who knows! For certain considerations, I think so.
+
+## RoboFont extensions
+
+- Must have: https://github.com/ninastoessinger/word-o-mat
+- Excellent addition to MetricsMachine: https://github.com/cjdunn/MM2SpaceCenter
 
 ## Other tools
 
