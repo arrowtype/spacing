@@ -4,9 +4,11 @@ Some useful strings and tools to use in spacing and kerning type.
 
 Have a resource or spacing method you think is useful, but isn't here? Please suggest it in an Issue or a Pull Request!
 
-## Paul Barnes said "There should be the international standard of spacing tests," and recommended (something close to) this
+## The International Standard of Spacing Tests
 
-His suggestion was actually even more brief (`nanoao nbnobo ncnoco` etc), but I've added extra control characters to help my eye judge spacing. Try different variations to see what works for you and for each project!
+Paul Barnes said “There should be the international standard of spacing tests,” and recommended (something close to) this.
+
+His suggestion was actually even more brief (`nanoao nbnobo ncnoco` etc), but the text below includes extra control characters to help judge relative spacing. Try different variations to see what works for you and for each project!
 
 ```
 nnonononoo nnanonoaoo nnbnonoboo nncnonocoo nndnonodoo nnenonoeoo nnfnonofoo nngnonogoo nnhnonohoo nninonoioo nnjnonojoo nnknonokoo nnlnonoloo nnmnonomoo nnpnonopoo nnqnonoqoo nnrnonoroo nnsnonosoo nntnonotoo nnunonouoo nnvnonovoo nnwnonowoo nnxnonoxoo nnynonoyoo nnznonozoo
@@ -22,7 +24,9 @@ It is useful to adapt as needed, e.g. sometimes I use `nnnannnoooaooo` if it see
 
 ## Latin proofing texts
 
-Hoefler & Co released useful texts they use proofing Latin fontsm, plus a helpful write-up of the logic behind it: https://www.typography.com/blog/text-for-proofing-fonts
+Hoefler & Co released useful texts they use proofing Latin fonts, plus a helpful write-up of the logic behind it: https://www.typography.com/blog/text-for-proofing-fonts
+
+This is free for non-commercial use. To paraphrase my understanding of the licensing, you can use it for proofing and testing, but you can’t sell posters of this, and you probably shouldn’t publish images of this on GitHub / Instagram / etc.
 
 ## Multi-lingual sample text sources:
 
