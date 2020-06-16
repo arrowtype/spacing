@@ -4,16 +4,16 @@ Some useful strings and tools to use in spacing and kerning type.
 
 Have a resource or spacing method you think is useful, but isn't here? Please suggest it in an Issue or a Pull Request!
 
-## Paul Barnes said "There should be the international standard of spacing tests," and recommended (something close to) this:
+## Paul Barnes said "There should be the international standard of spacing tests," and recommended (something close to) this
 
 His suggestion was actually even more brief (`nanoao nbnobo ncnoco` etc), but I've added extra control characters to help my eye judge spacing. Try different variations to see what works for you and for each project!
 
 ```
-nnonnoonoo nnannooaoo nnbnnooboo nncnnoocoo nndnnoodoo nnennooeoo nnfnnoofoo nngnnoogoo nnhnnoohoo nninnooioo nnjnnoojoo nnknnookoo nnlnnooloo nnmnnoomoo nnpnnoopoo nnqnnooqoo nnrnnooroo nnsnnoosoo nntnnootoo nnunnoouoo nnvnnoovoo nnwnnoowoo nnxnnooxoo nnynnooyoo nnznnoozoo
+nnonononoo nnanonoaoo nnbnonoboo nncnonocoo nndnonodoo nnenonoeoo nnfnonofoo nngnonogoo nnhnonohoo nninonoioo nnjnonojoo nnknonokoo nnlnonoloo nnmnonomoo nnpnonopoo nnqnonoqoo nnrnonoroo nnsnonosoo nntnonotoo nnunonouoo nnvnonovoo nnwnonowoo nnxnonoxoo nnynonoyoo nnznonozoo
 
-HHOHHOOHOO HHAHHOOAOO HHBHHOOBOO HHCHHOOCOO HHDHHOODOO HHEHHOOEOO HHFHHOOFOO HHGHHOOGOO HHIHHOOIOO HHJHHOOJOO HHKHHOOKOO HHLHHOOLOO HHMHHOOMOO HHNHHOONOO HHPHHOOPOO HHQHHOOQOO HHRHHOOROO HHSHHOOSOO HHTHHOOTOO HHUHHOOUOO HHVHHOOVOO HHWHHOOWOO HHXHHOOXOO HHYHHOOYOO HHZHHOOZOO
+HHOHOHOHOO HHAHOHOAOO HHBHOHOBOO HHCHOHOCOO HHDHOHODOO HHEHOHOEOO HHFHOHOFOO HHGHOHOGOO HHIHOHOIOO HHJHOHOJOO HHKHOHOKOO HHLHOHOLOO HHMHOHOMOO HHNHOHONOO HHPHOHOPOO HHQHOHOQOO HHRHOHOROO HHSHOHOSOO HHTHOHOTOO HHUHOHOUOO HHVHOHOVOO HHWHOHOWOO HHXHOHOXOO HHYHOHOYOO HHZHOHOZOO
 
-008088088 0010088188 0020088288 0030088388 0040088488 0050088588 0060088688 0070088788 0090088988
+0080808088 0010808188 0020808288 0030808388 0040808488 0050808588 0060808688 0070808788 0090808988
 ```
 
 The best part is that it's a simple, brief, memorable set of tests. 
