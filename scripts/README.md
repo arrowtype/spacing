@@ -6,16 +6,18 @@ I found myself writing similar little scripts fairly often, so I figured they mi
 
 ## General instructions for use:
 
-1. Read the scripts. 
+1. Read the scripts, [make-spacing-string.py](make-spacing-string.py) and [make-kerning-string.py](make-kerning-string.py).
     - Everything at the top between `"""` and `"""` is just documentation.
     - Lines starting with `#` are comments that explain the code.
-2. Copy a space-separated list of glyph names from a font editor, then paste these in the place of the glyph name lists of these scripts.
+2. Copy the script you want into your editor’s Python window.
+    - In GlyphsApp, use [Macro Panel](https://glyphsapp.com/learn/scripting-glyphs-part-1)
+    - In RoboFont, use the [Scripting Window](https://www.robofont.com/documentation/reference/workspace/scripting-window/)
+    - You could alternatively use these scripts anywhere else on your system that runs Python.
+    - Feel free to save the script locally, to easily access it again and/or to save your customizations!
+3. Copy a space-separated list of glyph names from a font editor, then paste these in the place of the glyph name lists of these scripts.
     - In GlyphsApp, select the glyphs you want, right-click (or control-click) and select Copy Glyph Names > Space Separated
     - In RoboFont,  select the glyphs you want, then press OPTION + COMMAND + C
-3. Run the script.
-    - You could copy & paste it into the Glyphs Macro Panel or the RoboFont Script Window, then run it.
-    - You could alternatively run this anywhere else on your system that runs Python.
-4. Copy the output text, then paste that into wherever you are working.
+4. Run the script! Then copy the output text, and paste that into wherever you are working.
 5. Space / kern / proof!
 
 ### Extra suggestions for `make-spacing-string.py`
