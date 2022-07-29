@@ -4,7 +4,11 @@ Some useful strings and tools to use in spacing and kerning type.
 
 Have a resource or spacing method you think is useful, but isn't here? Please suggest it in an Issue or a Pull Request!
 
-## The International Standard of Spacing Tests
+## Make your own
+
+There are a couple of simple scripts in the [scripts](/scripts) folder, which can allow you to quickly generate your own proofing strings. See that [readme](scripts/README.md) for more details!
+
+## The “International Standard of Spacing Tests”
 
 Paul Barnes said “There should be the international standard of spacing tests,” and recommended (something close to) this.
 
@@ -18,9 +22,11 @@ HHOHOHOHOO HHAHOHOAOO HHBHOHOBOO HHCHOHOCOO HHDHOHODOO HHEHOHOEOO HHFHOHOFOO HHG
 0080808088 0010808188 0020808288 0030808388 0040808488 0050808588 0060808688 0070808788 0090808988
 ```
 
-The best part is that it's a simple, brief, memorable set of tests. 
+The best part is that it's a simple, brief, memorable set of tests.
 
 It is useful to adapt as needed, e.g. sometimes I use `nnnannnoooaooo` if it seems easier, I set different characters between numerals, etc.
+
+🔥 Hot tip: add newlines instead of spaces for use in GlyphsApp while you’re designing a font.
 
 ## Latin proofing texts
 
