@@ -3,8 +3,8 @@
 """
 
 # Update to make different lists. copy these from your font editor as space-seperated glyph names
-# characters = "a b c d e f g h i j k l m n o p q r s t u v w x y z"
-characters = " . , : ; … ! ¡ ? ¿ · • * / \ - – — _ ( ) { } [ ] ‚ „ “ ” ‘ ’ \" ' ★ ♥ ✓ @ & © $ × ^ % ↑ → ↓ ←"
+characters = "a b c d e f g h i j k l m n o p q r s t u v w x y z"
+# characters = " . , : ; … ! ¡ ? ¿ · • * / \ - – — _ ( ) { } [ ] ‚ „ “ ” ‘ ’ \" ' ★ ♥ ✓ @ & © $ × ^ % ↑ → ↓ ←"
 
 # Configurable pattern. By default, this will put glyphs between nn and oo
 # Remove leading slashes and trailing spaces if you instead want to proof characters (not just glyph names), especially for InDesign, etc.
