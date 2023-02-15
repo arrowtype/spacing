@@ -53,6 +53,12 @@ Amazing analysis of letter frequency in English: http://norvig.com/mayzner.html
 - Must have: https://github.com/ninastoessinger/word-o-mat
 - Excellent addition to MetricsMachine: https://github.com/cjdunn/MM2SpaceCenter
 
+## Proof-making tools
+
+[Idiot Proofed](https://idiotproofed.com) “was created by Very Cool Studio and Jake Fleming in 2018. It was created so that we'd never need to open InDesign again.” This very cool website makes a bunch of useful proofs when you upload a font file. Nice!
+
+[Font Proofer](https://fontproofer.com), by Peter Nowell, is an excellent macOS app for generating proofs. It is (as of Jan 9, 2023) still in beta testing, but it is very polished and super handy.
+
 ## Other tools
 
 Drag-and-drop test specimens: http://www.cyreal.org/Font-Testing-Page/
