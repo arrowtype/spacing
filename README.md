@@ -50,20 +50,24 @@ Amazing analysis of letter frequency in English: http://norvig.com/mayzner.html
 
 ## RoboFont extensions
 
-- Must have: https://github.com/ninastoessinger/word-o-mat
+- Must have: https://github.com/ninastoessinger/word-o-mat (also available for GlyphsApp)
 - Excellent addition to MetricsMachine: https://github.com/cjdunn/MM2SpaceCenter
 
 ## Proof-making tools
 
 [Idiot Proofed](https://idiotproofed.com) “was created by Very Cool Studio and Jake Fleming in 2018. It was created so that we'd never need to open InDesign again.” This very cool website makes a bunch of useful proofs when you upload a font file. Nice!
 
-[Font Proofer](https://fontproofer.com), by Peter Nowell, is an excellent macOS app for generating proofs. It is (as of Jan 9, 2023) still in beta testing, but it is very polished and super handy.
+Another handy place for drag-and-drop test specimens: http://www.cyreal.org/Font-Testing-Page/
+
+[The JAF Test Text Generator](https://justanotherfoundry.com/generator), but Just Another Foundry, is similar to word-o-mat, but it’s a web page. You can generate words from a selected language, or paste in a limited set of characters for it to make sample words from.
+
+[Font Proofer](https://fontproofer.com), by Peter Nowell, is an excellent macOS app for generating proofs. It is really thoughtfully  and well built, and really optimizes the flow of making and saving documents for proofing.
 
 ## Other tools
 
-Drag-and-drop test specimens: http://www.cyreal.org/Font-Testing-Page/
-
 [Drawbot](http://www.drawbot.com/): an open-source, Python-based design tool which is excellent for testing fonts in a programmatic way. See [Python for Designers](http://pythonfordesigners.com/) as an introduction to this.
+
+InDesign can also be helpful, obviously – if you are still exploring _what_ you want a drawbot proof to contain and look like, it can often be handy to explore the ideas first in a more traditional design tool, and then bring things into DrawBot.
 
 ## Further reading
 
