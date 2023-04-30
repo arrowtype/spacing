@@ -15,11 +15,11 @@ Paul Barnes said “There should be the international standard of spacing tests,
 His suggestion was actually even more brief (`nanoao nbnobo ncnoco` etc), but the text below includes extra control characters to help judge relative spacing. Try different variations to see what works for you and for each project!
 
 ```
-nnonononoo nnanonoaoo nnbnonoboo nncnonocoo nndnonodoo nnenonoeoo nnfnonofoo nngnonogoo nnhnonohoo nninonoioo nnjnonojoo nnknonokoo nnlnonoloo nnmnonomoo nnpnonopoo nnqnonoqoo nnrnonoroo nnsnonosoo nntnonotoo nnunonouoo nnvnonovoo nnwnonowoo nnxnonoxoo nnynonoyoo nnznonozoo
+nnononoo nnanoaoo nnbnoboo nncnocoo nndnodoo nnenoeoo nnfnofoo nngnogoo nnhnohoo nninoioo nnjnojoo nnknokoo nnlnoloo nnmnomoo nnpnopoo nnqnoqoo nnrnoroo nnsnosoo nntnotoo nnunouoo nnvnovoo nnwnowoo nnxnoxoo nnynoyoo nnznozoo
 
-HHOHOHOHOO HHAHOHOAOO HHBHOHOBOO HHCHOHOCOO HHDHOHODOO HHEHOHOEOO HHFHOHOFOO HHGHOHOGOO HHIHOHOIOO HHJHOHOJOO HHKHOHOKOO HHLHOHOLOO HHMHOHOMOO HHNHOHONOO HHPHOHOPOO HHQHOHOQOO HHRHOHOROO HHSHOHOSOO HHTHOHOTOO HHUHOHOUOO HHVHOHOVOO HHWHOHOWOO HHXHOHOXOO HHYHOHOYOO HHZHOHOZOO
+HHOHOHOO HHAHOAOO HHBHOBOO HHCHOCOO HHDHODOO HHEHOEOO HHFHOFOO HHGHOGOO HHIHOIOO HHJHOJOO HHKHOKOO HHLHOLOO HHMHOMOO HHNHONOO HHPHOPOO HHQHOQOO HHRHOROO HHSHOSOO HHTHOTOO HHUHOUOO HHVHOVOO HHWHOWOO HHXHOXOO HHYHOYOO HHZHOZOO
 
-0080808088 0010808188 0020808288 0030808388 0040808488 0050808588 0060808688 0070808788 0090808988
+00808088 00108188 00208288 00308388 00408488 00508588 00608688 00708788 00908988
 ```
 
 The best part is that it's a simple, brief, memorable set of tests.
@@ -42,11 +42,85 @@ Public-domain books across many languages: https://www.gutenberg.org/
 
 EU documents are translated into all European languages. Find them at https://eur-lex.europa.eu. Try the feature that sets different languages side-by-side! Random example: ["Agreement between the European Union and the Kingdom of Norway on reciprocal access to fishing in the Skagerrak for vessels flying the flag of Denmark, Norway and Sweden"](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1549497498444&uri=CELEX:22014A0730(01))
 
+## Permutations for Kerning
+
+```
+aaabacadaeafagahaiajakalamanaoapaqarasatauavawaxayaza
+babbbcbdbebfbgbhbibjbkblbmbnbobpbqbrbsbtbubvbwbxbybzb
+cacbcccdcecfcgchcicjckclcmcncocpcqcrcsctcucvcwcxcyczc
+dadbdcdddedfdgdhdidjdkdldmdndodpdqdrdsdtdudvdwdxdydzd
+eaebecedeeefegeheiejekelemeneoepeqereseteuevewexeyeze
+fafbfcfdfefffgfhfifjfkflfmfnfofpfqfrfsftfufvfwfxfyfzf
+gagbgcgdgegfggghgigjgkglgmgngogpgqgrgsgtgugvgwgxgygzg
+hahbhchdhehfhghhhihjhkhlhmhnhohphqhrhshthuhvhwhxhyhzh
+iaibicidieifigihiiijikiliminioipiqirisitiuiviwixiyizi
+jajbjcjdjejfjgjhjijjjkjljmjnjojpjqjrjsjtjujvjwjxjyjzj
+kakbkckdkekfkgkhkikjkkklkmknkokpkqkrksktkukvkwkxkykzk
+lalblcldlelflglhliljlklllmlnlolplqlrlsltlulvlwlxlylzl
+mambmcmdmemfmgmhmimjmkmlmmmnmompmqmrmsmtmumvmwmxmymzm
+nanbncndnenfngnhninjnknlnmnnnonpnqnrnsntnunvnwnxnynzn
+oaobocodoeofogohoiojokolomonooopoqorosotouovowoxoyozo
+papbpcpdpepfpgphpipjpkplpmpnpopppqprpsptpupvpwpxpypzp
+qaqbqcqdqeqfqgqhqiqjqkqlqmqnqoqpqqqrqsqtquqvqwqxqyqzq
+rarbrcrdrerfrgrhrirjrkrlrmrnrorprqrrrsrtrurvrwrxryrzr
+sasbscsdsesfsgshsisjskslsmsnsospsqsrssstsusvswsxsyszs
+tatbtctdtetftgthtitjtktltmtntotptqtrtstttutvtwtxtytzt
+uaubucudueufuguhuiujukulumunuoupuqurusutuuuvuwuxuyuzu
+vavbvcvdvevfvgvhvivjvkvlvmvnvovpvqvrvsvtvuvvvwvxvyvzv
+wawbwcwdwewfwgwhwiwjwkwlwmwnwowpwqwrwswtwuwvwwwxwywzw
+xaxbxcxdxexfxgxhxixjxkxlxmxnxoxpxqxrxsxtxuxvxwxxxyxzx
+yaybycydyeyfygyhyiyjykylymynyoypyqyrysytyuyvywyxyyyzy
+zazbzczdzezfzgzhzizjzkzlzmznzozpzqzrzsztzuzvzwzxzyzzz
+```
+
+```
+AAABACADAEAFAGAHAIAJAKALAMANAOAPAQARASATAUAVAWAXAYAZA
+BABBBCBDBEBFBGBHBIBJBKBLBMBNBOBPBQBRBSBTBUBVBWBXBYBZB
+CACBCCCDCECFCGCHCICJCKCLCMCNCOCPCQCRCSCTCUCVCWCXCYCZC
+DADBDCDDDEDFDGDHDIDJDKDLDMDNDODPDQDRDSDTDUDVDWDXDYDZD
+EAEBECEDEEEFEGEHEIEJEKELEMENEOEPEQERESETEUEVEWEXEYEZE
+FAFBFCFDFEFFFGFHFIFJFKFLFMFNFOFPFQFRFSFTFUFVFWFXFYFZF
+GAGBGCGDGEGFGGGHGIGJGKGLGMGNGOGPGQGRGSGTGUGVGWGXGYGZG
+HAHBHCHDHEHFHGHHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH
+IAIBICIDIEIFIGIHIIIJIKILIMINIOIPIQIRISITIUIVIWIXIYIZI
+JAJBJCJDJEJFJGJHJIJJJKJLJMJNJOJPJQJRJSJTJUJVJWJXJYJZJ
+KAKBKCKDKEKFKGKHKIKJKKKLKMKNKOKPKQKRKSKTKUKVKWKXKYKZK
+LALBLCLDLELFLGLHLILJLKLLLMLNLOLPLQLRLSLTLULVLWLXLYLZL
+MAMBMCMDMEMFMGMHMIMJMKMLMMMNMOMPMQMRMSMTMUMVMWMXMYMZM
+NANBNCNDNENFNGNHNINJNKNLNMNNNONPNQNRNSNTNUNVNWNXNYNZN
+OAOBOCODOEOFOGOHOIOJOKOLOMONOOOPOQOROSOTOUOVOWOXOYOZO
+PAPBPCPDPEPFPGPHPIPJPKPLPMPNPOPPPQPRPSPTPUPVPWPXPYPZP
+QAQBQCQDQEQFQGQHQIQJQKQLQMQNQOQPQQQRQSQTQUQVQWQXQYQZQ
+RARBRCRDRERFRGRHRIRJRKRLRMRNRORPRQRRRSRTRURVRWRXRYRZR
+SASBSCSDSESFSGSHSISJSKSLSMSNSOSPSQSRSSSTSUSVSWSXSYSZS
+TATBTCTDTETFTGTHTITJTKTLTMTNTOTPTQTRTSTTTUTVTWTXTYTZT
+UAUBUCUDUEUFUGUHUIUJUKULUMUNUOUPUQURUSUTUUUVUWUXUYUZU
+VAVBVCVDVEVFVGVHVIVJVKVLVMVNVOVPVQVRVSVTVUVVVWVXVYVZV
+WAWBWCWDWEWFWGWHWIWJWKWLWMWNWOWPWQWRWSWTWUWVWWWXWYWZW
+XAXBXCXDXEXFXGXHXIXJXKXLXMXNXOXPXQXRXSXTXUXVXWXXXYXZX
+YAYBYCYDYEYFYGYHYIYJYKYLYMYNYOYPYQYRYSYTYUYVYWYXYYYZY
+ZAZBZCZDZEZFZGZHZIZJZKZLZMZNZOZPZQZRZSZTZUZVZWZXZYZZZ
+```
+
+```
+000102030405060708090
+101112131415161718191
+202122232425262728292
+303132333435363738393
+404142434445464748494
+505152535455565758595
+606162636465666768696
+707172737475767778797
+808182838485868788898
+909192939495969798999
+```
+
 ## Statistics
 
 Amazing analysis of letter frequency in English: http://norvig.com/mayzner.html
 - Caveat: this ignores capitalization, though that (probably?) doesn't have a huge impact on the lessons you can take from this.
 - Is it useful? Who knows! For certain considerations, I think so.
+- In general – especially early in a design – it can be helpful to remember that the vast majority of text is lowercase. So, it can be sensible to pay more attention to the lowercase, first.
 
 ## RoboFont extensions
 
