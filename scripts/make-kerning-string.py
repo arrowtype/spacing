@@ -1,16 +1,21 @@
 """
     A simple way to make some kerning strings, for kerning and/or proofing your kerning.
+    
+    Use glyph names to generate a kerning proof for e.g. RoboFont Space Center.
+    
+    You can also edit this to use characters: exclude the spaces, leave out the .split(" "), 
+    and remove the slashes and spaces from the pattern.
 """
 
 # space-separate list of glyph names for glyphs you want on the left side of pairs
-side1Names = "AFJKLTVWXY"
+side1Names = "A V Y L W S".split(" ")
 
 # space-separate list of glyph names for glyphs you want on the right side of pairs
-side2Names = " "
+side2Names = "quotesingle quotedbl quoteleft quoteright quotedblleft quotedblright".split(" ")
 
 # Configure the kerning string pattern, if you want to adjust it. side1 glyphs will replace $1, and side2 glyphs will replace $2.
 # Add/remove leading slashes and trailing spaces depending whether you want to proof characters or glyph names, especially for InDesign vs RoboFont, etc.
-pattern = "AVHH$1$2HO$1$2OOAV"
+pattern = "HH/$1 /$2 HO/$1 /$2 OO"
 # pattern = "nn$1$2no$1$2oo"
 
 # If you want to change the way each pattern is separated, change this. It adds a basic newline (`\n`) by default.
