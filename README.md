@@ -145,7 +145,8 @@ InDesign can also be helpful, obviously – if you are still exploring _what_ yo
 
 ## Further reading
 
-https://ohnotype.co/blog/spacing
+- [OHno Type blog post on spacing](https://ohnotype.co/blog/spacing)
+- [The Walter Tracy method of spacing]([https://github.com/n8willis/kernall/blob/master/tracy.md](https://github.com/n8willis/kernall/blob/a21310853570d5d591ea884d0e97305b11a00562/tracy.md))
 
 ## Suggestions below are from an archived blog post by Ultrasparky (Dan Rhatigan): [Spacing Tests](http://ultrasparky.org/archives/2014/03/spacing_tests.html)
 
