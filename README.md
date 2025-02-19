@@ -145,8 +145,9 @@ InDesign can also be helpful, obviously – if you are still exploring _what_ yo
 
 ## Further reading
 
-- [OHno Type blog post on spacing](https://ohnotype.co/blog/spacing)
-- [The Walter Tracy method of spacing](https://github.com/n8willis/kernall/blob/a21310853570d5d591ea884d0e97305b11a00562/tracy.md)
+- [OHno Type blog post on spacing](https://ohnotype.co/blog/spacing). This is a must-read for those new to thinking about type design and spacing!
+- [The Walter Tracy method of spacing](https://github.com/n8willis/kernall/blob/a21310853570d5d591ea884d0e97305b11a00562/tracy.md) An interested shortcut framework to decent spacing. I pretty much do this without thinking about it explicitly.
+  - [More collected research on spacing and kerning, from Nate Willis](https://github.com/n8willis/kernall)
 
 ## Suggestions below are from an archived blog post by Ultrasparky (Dan Rhatigan): [Spacing Tests](http://ultrasparky.org/archives/2014/03/spacing_tests.html)
 
