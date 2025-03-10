@@ -12,7 +12,7 @@ kernString = ""
 for c in roughOrderOfKernConcern:
     for c2 in roughOrderOfKernConcern:
         kernString += f"H{c}{c2}{c}H "
-    kernString += "\n\n"
+    kernString += "\n"
 
 print(kernString)
 
