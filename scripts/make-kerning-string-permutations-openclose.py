@@ -8,6 +8,7 @@
 # dict of open/close glyph pairs
 open_close_pairs = {
     "‘": "’",
+    "’": "‘",
     "“": "”",
     "'": "'",
     "\"": "\"",
