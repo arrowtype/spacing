@@ -1,3 +1,10 @@
+"""
+    A simple way to make some kerning strings, for kerning and/or proofing your kerning.
+    Adjusted for open/close pairs, like brackets and quotes.
+
+    Run anywhere you can run Python, then copy and paste the output into e.g. GlyphsApp.
+"""
+
 # dict of open/close glyph pairs
 open_close_pairs = {
     "‘": "’",
