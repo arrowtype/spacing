@@ -1,10 +1,3 @@
-"""
-    A simple way to make some kerning strings, for kerning and/or proofing your kerning.
-
-    Adjusted for open/close pairs, like brackets and quotes.
-"""
-
-
 # dict of open/close glyph pairs
 open_close_pairs = {
     "‘": "’",
@@ -20,7 +13,7 @@ open_close_pairs = {
 }
 
 # characters you want to check in the middle
-middleChars = "abcdefghijklmnopqrstuvwxyz"
+middleChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.,:;“”‘’"
 
 # Configure the kerning string pattern, if you want to adjust it.
 pattern = "nn{open}{middleChar}{close}nono{open}{middleChar}{close}oo"
@@ -34,4 +27,3 @@ for open, close in open_close_pairs.items():
     for middleChar in [c for c in middleChars]:
         # use pattern as formatted string
         print(pattern.format(open=open, close=close, middleChar=middleChar), end=separator)
-
