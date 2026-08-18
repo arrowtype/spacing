@@ -115,6 +115,72 @@ ZAZBZCZDZEZFZGZHZIZJZKZLZMZNZOZPZQZRZSZTZUZVZWZXZYZZZ
 909192939495969798999
 ```
 
+## Quote kerning
+
+Quote kerning is a commonly missed but super important part of type design.
+
+Quotes, contractions, and possessives happen all the time in text, but even otherwise great fonts have iffy quote kerning.
+
+A slight challenge: [many languages use quotes slightly differently](https://en.wikipedia.org/wiki/Quotation_mark#Summary_table). Basically, every permutation is used in one language or another.
+
+Here’s a starter kerning/proofing string – adapt it as you see fit!
+
+```
+n’a  n’b  n’c  n’d  n’e  n’f  n’g  n’h  n’i  n’j  n’k  n’l  n’m  
+n’n  n’o  n’p  n’q  n’r  n’s  n’t  n’u  n’v  n’w  n’x  n’y  n’z
+
+n'a  n'b  n'c  n'd  n'e  n'f  n'g  n'h  n'i  n'j  n'k  n'l  n'm  
+n'n  n'o  n'p  n'q  n'r  n's  n't  n'u  n'v  n'w  n'x  n'y  n'z
+
+“a” “b” “c” “d” “e” “f” “g” “h” “i” “j” “k” “l” “m”
+“n” “o” “p” “q” “r” “s” “t” “u” “v” “w” “x” “y” “z”
+
+"a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+"n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z"
+
+‘a’ ‘b’ ‘c’ ‘d’ ‘e’ ‘f’ ‘g’ ‘h’ ‘i’ ‘j’ ‘k’ ‘l’ ‘m’
+‘n’ ‘o’ ‘p’ ‘q’ ‘r’ ‘s’ ‘t’ ‘u’ ‘v’ ‘w’ ‘x’ ‘y’ ‘z’
+
+„a“ „b“ „c“ „d“ „e“ „f“ „g“ „h“ „i“ „j“ „k“ „l“ „m“ 
+„n“ „o“ „p“ „q“ „r“ „s“ „t“ „u“ „v“ „w“ „x“ „y“ „z“
+
+«a» «b» «c» «d» «e» «f» «g» «h» «i» «j» «k» «l» «m» 
+«n» «o» «p» «q» «r» «s» «t» «u» «v» «w» «x» «y» «z»
+
+»a« »b« »c« »d« »e« »f« »g« »h« »i« »j« »k« »l« »m« 
+»n« »o« »p« »q« »r« »s« »t« »u« »v« »w« »x« »y« »z«
+
+H'A  H'B  H'C  H'D  H'E  H'F  H'G  H'H  H'I  H'J  H'K  H'L  H'M
+H'N  H'O  H'P  H'Q  H'R  H'S  H'T  H'U  H'V  H'W  H'X  H'Y  H'Z
+
+H’A  H’B  H’C  H’D  H’E  H’F  H’G  H’H  H’I  H’J  H’K  H’L  H’M
+H’N  H’O  H’P  H’Q  H’R  H’S  H’T  H’U  H’V  H’W  H’X  H’Y  H’Z
+
+“A” “B” “C” “D” “E” “F” “G” “H” “I” “J” “K” “L” “M”
+“N” “O” “P” “Q” “R” “S” “T” “U” “V” “W” “X” “Y” “Z”
+
+"A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+"N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z"
+
+‘A’ ‘B’ ‘C’ ‘D’ ‘E’ ‘F’ ‘G’ ‘H’ ‘I’ ‘J’ ‘K’ ‘L’ ‘M’
+‘N’ ‘O’ ‘P’ ‘Q’ ‘R’ ‘S’ ‘T’ ‘U’ ‘V’ ‘W’ ‘X’ ‘Y’ ‘Z’
+
+„A“ „B“ „C“ „D“ „E“ „F“ „G“ „H“ „I“ „J“ „K“ „L“ „M“ 
+„N“ „O“ „P“ „Q“ „R“ „S“ „T“ „U“ „V“ „W“ „X“ „Y“ „Z“
+
+«A» «B» «C» «D» «E» «F» «G» «H» «I» «J» «K» «L» «M» 
+«N» «O» «P» «Q» «R» «S» «T» «U» «V» «W» «X» «Y» «Z»
+
+»A« »B« »C« »D« »E« »F« »G« »H« »I« »J« »K« »L« »M« 
+»N« »O« »P« »Q« »R« »S« »T« »U« »V« »W« »X« »Y« »Z«
+```
+
+By the way: a fast way to make permutations like this is to enter `python` into a terminal, and then work with single-line Python commands such as the following.
+
+```py
+" ".join([f'»{c]«' for c in 'abcdefghijklmnopqrstuvwxyz'])
+```
+
 ## Statistics
 
 Amazing analysis of letter frequency in English: http://norvig.com/mayzner.html
